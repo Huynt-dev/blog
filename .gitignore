@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files
+dist/
+build/
+*.log
+
+# Ignore original source files
+index.html
+styles.css
+script.js
+
+# Ignore development files
+node_modules/
+package-lock.json
+.gitignore
+.gitallowed
+
+# Keep only obfuscated files
+!index.min.html
+!script.min.js 
