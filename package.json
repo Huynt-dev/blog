@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "scripts": {
+    "minify": "node minify.js"
+  },
+  "dependencies": {
+    "html-minifier-terser": "^7.2.0",
+    "clean-css": "^5.3.2"
+  }
+}
