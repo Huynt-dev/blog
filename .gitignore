@@ -3,6 +3,9 @@
 
 # But not these files...
 !.gitignore
-!images
+!images/
 !index.html
-!styles.css 
+!styles.css
+
+# Ignore base directory
+base/ 
